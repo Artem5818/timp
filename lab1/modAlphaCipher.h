@@ -17,4 +17,5 @@ public:
     modAlphaCipher(const wstring& skey);
     wstring encrypt(const wstring& open_text);
     wstring decrypt(const wstring& cipher_text);
-};
+}
+;
